@@ -1,4 +1,5 @@
- # Currency Converter
+ #  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/c692796e-2fe8-4f4c-b088-cdf4b3372de0" />
+Currency Converter
 
 A polished Vite + React application that lets you convert money across 30+ currencies with real-time exchange rates from the Frankfurter API. It ships with a responsive UI, light/dark theming, persistent preferences, and a rolling history of your last five conversions.
 
